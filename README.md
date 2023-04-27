@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1T4Ew0rBIv8PS5hOPQ3xCdYqRyBQtOMODBxfkVGcF9tM/edit?usp=sharing)
 
-- ⚡ Fun fact **I like cats!**
+- ⚡ Fun fact **I am a System Admin!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
