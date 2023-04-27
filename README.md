@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **toby@tobysec.com or RedstoneLayer#7759**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1T4Ew0rBIv8PS5hOPQ3xCdYqRyBQtOMODBxfkVGcF9tM/edit?usp=sharing](https://docs.google.com/document/d/1T4Ew0rBIv8PS5hOPQ3xCdYqRyBQtOMODBxfkVGcF9tM/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1T4Ew0rBIv8PS5hOPQ3xCdYqRyBQtOMODBxfkVGcF9tM/edit?usp=sharing)
 
 - ⚡ Fun fact **I like cats!**
 
