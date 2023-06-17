@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobysec" alt="tobysec" /></a> </p>
 
-- 🔭 I’m currently working on [Working with Arcade Hub](https://arcadehub.net/)
+- 🔭 I’m currently working on [YepCloud](https://yepcloud.co.uk/)
 
 - 🌱 I’m currently learning **Discord Bot Development**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Python, Java, Css, JS, HTML and more!**
 
 - 📫 How to reach me **toby@tobysec.com or RedstoneLayer#7759**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1T4Ew0rBIv8PS5hOPQ3xCdYqRyBQtOMODBxfkVGcF9tM/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a System Admin!**
 
